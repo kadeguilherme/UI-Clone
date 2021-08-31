@@ -1,11 +1,10 @@
-<h1 align = "center"> Home Page Instagram 🚀</h1>
+<h1 align = "center"> Myhours 🚀</h1>
   
 ## :page_facing_up: Sobre
-Este repositorio recriamos a home do Instagram com apenas HTML e CSS.
+Myhours é um aplicação para gerenciamento do seu tempo de uma forma simples e com relatórios poderosos
 
-
-## Home Page Instagram
-<img src="https://github.com/kadeguilherme/UI-Clone/blob/master/Instagram-home-page/img/Instagram-home.png" alt="Card-01">
+## Myhours
+<img src="https://github.com/kadeguilherme/UI-Clone/blob/master/Myhours/src/img/Web.svg" alt="MYhours">
 
 ## Feito com ❤
 
