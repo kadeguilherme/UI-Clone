@@ -7,7 +7,7 @@ Este repositorio tem como objetivo principal ensinar e aprender um pouco sobre d
 
 ## Cards UI
 <h3>Card 01</h3>
-<img src="https://raw.githubusercontent.com/kadeguilherme/UI-Clone/master/icons/print-card01.png" alt="Card-01">
+<img src="https://github.com/kadeguilherme/UI-Clone/blob/master/Cards/Card-01/src/img/print-card01.png" alt="Card-01">
 
 ## Feito com ❤
 
