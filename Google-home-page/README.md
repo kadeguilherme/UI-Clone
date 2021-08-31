@@ -1,13 +1,12 @@
-<h1 align = "center"> Cards 🚀</h1>
+<h1 align = "center"> Home Page Google 🚀</h1>
   
 ## :page_facing_up: Sobre
-Este repositorio tem como objetivo principal ensinar e aprender um pouco sobre design de Card, Componentes e entre outros voltado para Web. Este projeto é de código aberto para que você possa usá-lo para o que quiser: nas páginas da web ou ganhar dinheiro com isso.
+Este repositorio recriamos a home do Google com apenas HTML e CSS.
 
 
 
-## Cards UI
-<h3>Card 01</h3>
-<img src="https://raw.githubusercontent.com/kadeguilherme/UI-Clone/master/icons/print-card01.png" alt="Card-01">
+## Google Home
+<img src="https://github.com/kadeguilherme/UI-Clone/blob/master/Google-home-page/assets/google-home.png" alt="HOME PAGE">
 
 ## Feito com ❤
 
