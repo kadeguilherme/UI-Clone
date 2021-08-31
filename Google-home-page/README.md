@@ -3,6 +3,10 @@
 ## :page_facing_up: Sobre
 Este repositorio recriamos a home do Google com apenas HTML e CSS.
 
+<p>
+  Clique para assisti a aula Rockeseat
+  <a href ="https://www.youtube.com/watch?v=KgjzE1Sxtq0"> aqui </a>
+</p>
 
 
 ## Google Home
