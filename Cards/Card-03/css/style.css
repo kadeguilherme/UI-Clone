@@ -68,3 +68,15 @@ a{
 .logo{
     height: 60px;
 }
+
+.box:hover{
+    background-color: #17171d;
+    transform-style: preserve-3d;
+    transform:scale(1.02);
+    transition: all ease 0.3s;
+}
+
+.box:hover .marvel{
+    color: #c0292b;
+    transition: all ease 0.5s;
+}
