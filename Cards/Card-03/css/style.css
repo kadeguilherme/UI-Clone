@@ -45,6 +45,7 @@ a{
     flex-direction: column;
     align-items: center;
     width: 320px;
+    
 
 }
 
@@ -62,4 +63,8 @@ a{
     letter-spacing: 2px;
     font-family: bebas kail;
     font-size: 25px;
+}
+
+.logo{
+    height: 60px;
 }
