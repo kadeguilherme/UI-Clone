@@ -1,0 +1,17 @@
+.inputWithIcon{
+    position: relative;
+}
+
+
+.inputWithIcon i{
+    position: absolute;
+    right: 0;
+    top: 3px;
+    padding: 9px 15px;
+    color: rgb(150, 147, 147);
+}
+
+
+.inputWithIcon ::placeholder { 
+    color:#0116CB;
+ }
