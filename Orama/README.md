@@ -1,16 +1,11 @@
-<h1 align = "center"> Home Page Google 🚀</h1>
+<h1 align = "center"> Login Page Orama 🚀</h1>
   
 ## :page_facing_up: Sobre
-Este repositorio recriamos a home do Google com apenas HTML e CSS.
-
-<p>
-  Clique para assisti a aula Rockeseat
-  <a href ="https://www.youtube.com/watch?v=KgjzE1Sxtq0"> aqui </a>
-</p>
+Este repositorio é uma criação Login Page da Orama.
 
 
-## Google Home
-<img src="https://github.com/kadeguilherme/UI-Clone/blob/master/Google-home-page/assets/google-home.png" alt="HOME PAGE">
+## Orama Login Page
+<img src="https://github.com/kadeguilherme/UI-Clone/blob/master/Orama/img/LoginHome.jpg" alt="HOME PAGE">
 
 ## Feito com ❤
 
