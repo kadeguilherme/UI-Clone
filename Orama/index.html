@@ -25,38 +25,61 @@
 
         </div>
 
-        <div class="flex bg-gray-100 flex-col justify-center px-36"> 
+        <!--LADO ESQUERDO-->
+        <div class="flex bg-gray-100 flex-col justify-center px-20"> 
             
             <div class="flex-row-reverse flex justify-items-end">
                 <img class="mb-10" src="img/logo.svg" alt="">
 
                 <div class="flex flex-col" >
-                    <h1 class="self-end text-xl text-indigo-700 font-medium	mr-10" >Órama</h1>
-                    <p class="mr-10 text-purple-900" > Qualquer que seja seu perfil pode conta com a Órama. </p>
+                    <h1 class="self-end text-xl text-gray-900 font-medium	mr-10" >Órama</h1>
+                    <p class="mr-10 text-gray-700" > Qualquer que seja seu perfil pode conta com a Órama. </p>
                 </div>
             </div>
 
+            <!--CADASTROS-->
             <div class="flex grid flex-col">
 
                 <div class="justify-self-end">                
                     <p class="text-gray-600" >Email</p>
                     
                 </div>
-
+                
+                <!--INPUTS-->
                 <div class="inputWithIcon">
                     <input class="w-full h-10 pr-10 rounded-lg" type="text" placeholder="e-mail" name="" id="input" style="text-align: right; border: 1px solid #ceced3; ">
                     <i class="fa fa-user" aria-hidden="true"></i>
                 </div>
-                senha
-                <p>Lembra-me</p>
+                
+                <p class="text-xs pt-2 text-gray-500">esqueceu a senha ?</p>
 
+                <div class="justify-self-end ">                
+                    <p class="text-gray-600" >Senha</p>
                 </div>
 
-            </div>
+                <div class="inputWithIcon mb-2">
+                    <input class="w-full h-10 pr-10 rounded-lg" type="text" placeholder="senha" name="" id="input" style="text-align: right; border: 1px solid #ceced3; ">
+                    <i class="fa fa-lock" aria-hidden="true"></i>
+                </div>
 
-           
+                <div class="flex justify-self-end  items-center">
+                    <label class="px-2 text-ls text-gray-500" for="scales">Lembra-me</label>
+                    <input type="checkbox" name="scales" id="">
+                </div>
+                <!--FIM INPUTS-->
+
+                <!--BOTAO LOGIN-->                
+                <div class="flex justify-center mt-8">
+                <button class="bg-blue-900 w-3/4 h-10 rounded-lg">
+                   <p class="text-white">Login</p> 
+                </button>
+                </div>
+                <!--FIM BOTAO LOGIN-->   
+            </div>
+            <!--FIM CADASTRO-->
 
         </div>
+        <!--FIM LADO ESQUERDO-->
 
         </div>
     </div>
