@@ -11,6 +11,10 @@
     color: rgb(150, 147, 147);
 }
 
+.google i{
+    color: #EA4335;
+}
+
 
 .inputWithIcon ::placeholder { 
     color:#282C52;
