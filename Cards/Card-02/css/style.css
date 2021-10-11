@@ -12,9 +12,16 @@
 
 .circle1{
     background: #99082D;
-
 }
 
+
+.circle2{
+    background: #939699;
+}
+
+.card2 img {
+    fill: #939699;
+}
 
 
 .card1{
