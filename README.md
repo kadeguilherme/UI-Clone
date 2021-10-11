@@ -15,6 +15,8 @@
   *  <a aria-label="Instagram Landing Page" href="https://github.com/kadeguilherme/UI-Clone/tree/master/Instagram-home-page">Instagram</a>
   *  <a aria-label="My Hours Landing Page" href="https://github.com/kadeguilherme/UI-Clone/tree/master/Myhours">My Hours</a>
   *  <a aria-label="My Cards" href="https://github.com/kadeguilherme/UI-Clone/tree/master/Cards"> Cards</a>
+  *  <a aria-label="Orama" href="https://github.com/kadeguilherme/UI-Clone/tree/master/Orama"> Orama</a>
+
 
 ## Feito com ❤
 
