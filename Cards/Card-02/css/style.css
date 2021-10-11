@@ -1,0 +1,34 @@
+.cards{
+    width: 263px;
+    height: 370px;
+
+}
+
+.circles{
+    width: 156px;
+    height: 156px;
+    overflow: hidden;
+}
+
+.circle1{
+    background: #99082D;
+
+}
+
+
+
+.card1{
+    background: #FF4F52;
+    box-shadow: 1px 1px 3px 2px rgba(0, 0, 0, 0.2);
+}
+
+.card2{
+    background: #262D33;
+    box-shadow: 1px 1px 3px 2px rgba(0, 0, 0, 0.2);
+}
+
+
+.card3{
+    background: #3DC47E;
+    box-shadow: 1px 1px 3px 2px rgba(0, 0, 0, 0.2);
+}
